@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1499480726 source:c:\users\simon.manske\documents\programming\asciicraft\main.cpp
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<fstream>
+
